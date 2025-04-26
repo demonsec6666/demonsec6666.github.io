@@ -6,7 +6,7 @@
   <link href="https://www.ggsec.cn/atom.xml" rel="self"/>
   
   <link href="https://www.ggsec.cn/"/>
-  <updated>2022-11-25T12:56:16.000Z</updated>
+  <updated>2025-04-26T00:15:33.483Z</updated>
   <id>https://www.ggsec.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="https://www.ggsec.cn/page.html"/>
+    <id>https://www.ggsec.cn/page.html</id>
+    <published>2025-04-26T00:15:33.000Z</published>
+    <updated>2025-04-26T00:15:33.483Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>基于CMD勒索脚本混淆分析</title>
@@ -486,39 +499,6 @@
     
     
     <category term="APT" scheme="https://www.ggsec.cn/categories/APT/"/>
-    
-    <category term="C2" scheme="https://www.ggsec.cn/categories/C2/"/>
-    
-    
-    <category term="windows" scheme="https://www.ggsec.cn/tags/windows/"/>
-    
-    <category term="ATT&amp;CK" scheme="https://www.ggsec.cn/tags/ATT-CK/"/>
-    
-    <category term="C2" scheme="https://www.ggsec.cn/tags/C2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FudgeC2</title>
-    <link href="https://www.ggsec.cn/FudgeC2.html"/>
-    <id>https://www.ggsec.cn/FudgeC2.html</id>
-    <published>2020-06-29T01:34:14.000Z</published>
-    <updated>2022-11-26T02:35:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="视频演示："><a href="#视频演示：" class="headerlink" title="视频演示："></a>视频演示：</h2><iframe     width="800"     height="450"     src='https://demonsec666.oss-cn-qingdao.aliyuncs.com/FudgeC2.mp4'    frameborder="0"     allowfullscreen></iframe><p><a href="https://github.com/Ziconius/FudgeC2">https://github.com/Ziconius/FudgeC2</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;视频演示：&quot;&gt;&lt;a href=&quot;#视频演示：&quot; class=&quot;headerlink&quot; title=&quot;视频演示：&quot;&gt;&lt;/a&gt;视频演示：&lt;/h2&gt;&lt;iframe 
-    width=&quot;800&quot; 
-    height=&quot;450&quot; 
-    src=&#39;https://</summary>
-      
-    
-    
-    
-    <category term="ATT&amp;CK" scheme="https://www.ggsec.cn/categories/ATT-CK/"/>
     
     <category term="C2" scheme="https://www.ggsec.cn/categories/C2/"/>
     

@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>page</title>
+      <link href="/page.html"/>
+      <url>/page.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于CMD勒索脚本混淆分析</title>
       <link href="/YourCyanide_CMD-Based%20Ransomware.html"/>
       <url>/YourCyanide_CMD-Based%20Ransomware.html</url>
